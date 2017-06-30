@@ -1,0 +1,89 @@
+8
+
+dir
+2659
+http://10.0.0.9:6060/svn/DevTops_AWS_SVN/Demo/Coverity/Taxi4U_Ver_1_0/Taxi_Java
+http://10.0.0.9:6060/svn/DevTops_AWS_SVN
+
+
+
+2016-10-31T15:12:29.077400Z
+2426
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+489820b3-3707-4c4b-8272-1626fa419b9a
+
+.classpath
+file
+
+
+
+
+2017-02-27T12:06:59.381000Z
+8ff853e6ec5a2ca4f228607c7b43ecd7
+2015-11-05T08:54:34.733000Z
+537
+admin
+has-props
+
+.project
+file
+
+
+
+
+2017-02-27T12:06:59.382000Z
+cf543bf21c2c09feca81c2bfd52dd29f
+2015-11-05T08:54:34.781000Z
+538
+admin
+has-props
+
+.settings
+dir
+
+CreateSnapshot.vbs
+file
+
+
+
+
+2017-02-27T12:06:59.387000Z
+afe1bf7051879966900fddf7a64f2fd7
+2015-11-11T19:06:58.707000Z
+768
+admin
+has-props
+
+pom.xml
+file
+
+
+
+
+2017-02-27T12:06:59.384000Z
+2cad888e204afb841e90183ce0139a98
+2016-10-31T15:12:29.077400Z
+2426
+admin
+has-props
+
+src
+dir
+
+target
+dir
+

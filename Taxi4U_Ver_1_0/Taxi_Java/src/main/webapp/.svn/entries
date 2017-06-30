@@ -1,0 +1,34 @@
+8
+
+dir
+2659
+http://10.0.0.9:6060/svn/DevTops_AWS_SVN/Demo/Coverity/Taxi4U_Ver_1_0/Taxi_Java/src/main/webapp
+http://10.0.0.9:6060/svn/DevTops_AWS_SVN
+
+
+
+2016-07-28T11:17:37.053800Z
+2171
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+489820b3-3707-4c4b-8272-1626fa419b9a
+
+WEB-INF
+dir
+
+resources
+dir
+

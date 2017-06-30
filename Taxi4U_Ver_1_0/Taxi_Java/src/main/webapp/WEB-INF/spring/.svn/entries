@@ -1,0 +1,31 @@
+8
+
+dir
+2659
+http://10.0.0.9:6060/svn/DevTops_AWS_SVN/Demo/Coverity/Taxi4U_Ver_1_0/Taxi_Java/src/main/webapp/WEB-INF/spring
+http://10.0.0.9:6060/svn/DevTops_AWS_SVN
+
+
+
+2015-11-05T08:54:35.183000Z
+542
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+489820b3-3707-4c4b-8272-1626fa419b9a
+
+appServlet
+dir
+
